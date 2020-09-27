@@ -26,10 +26,12 @@ h1 {
     width: 100%;
 }
 
-a {
+a:hover {
     text-decoration: none;
     color: #b70569;
 }
+
+
 
 .profile {
     width: 120px;
